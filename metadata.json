@@ -1,0 +1,6 @@
+{
+  "name": "Điện Lạnh Quang Cảnh",
+  "description": "Điện Lạnh Quang Cảnh - Dịch vụ vệ sinh, bảo dưỡng, sửa chữa và lắp đặt điều hòa tại nhà Hà Nội. Thợ có mặt sau 30 phút liên hệ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
